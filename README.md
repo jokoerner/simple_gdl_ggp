@@ -1,6 +1,7 @@
 # simple_gdl_ggp
 
 Generally, Pablo calculates the minimax value of states. However, we have
+
 % added the following improvements over naive minimax:
 % - alpha-beta pruning
 % - iterative deepening
